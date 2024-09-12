@@ -1,0 +1,10 @@
+---
+title: "my website"
+---
+
+This is a Quarto website.
+
+```{}
+```
+
+Hi, my name is Ruiying Li, I am 3rd year student who major in Statistics in University of Toronto
